@@ -1,0 +1,64 @@
+
+#content {
+	margin-left: 10px;
+
+}
+#header {
+    background-color: #408080;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+ 
+#nav {
+	float: right;
+	width: 38%;
+	padding-left: 10px;
+	border-left: 10px solid black;
+}
+ 
+#main{
+    float: left;
+    width: 58%;
+    font-size: 18px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-left: 8px solid black;
+    margin-bottom: 100px;
+}
+ 
+#egy{
+    height: 200px;
+    background-color: #8c8c8c;     
+    font-size: 30px;
+    color: white; 
+    margin-top: -30px;
+}
+ 
+#ketto{
+	height: 200px;
+	background-color: #ffffff;
+	font-size: 30px;
+	margin-top: -30px;
+}
+ 
+#harom{
+    height: 200px;
+    background-color: #8c8c8c;   
+    font-size: 30px;
+    color: white; 
+    margin-top: -30px;
+}
+ 
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #408080;
+}
+ body {
+
+ 	background-color: #ffffff;
+ 	margin: 0px;
+ }
